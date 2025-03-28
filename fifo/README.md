@@ -319,7 +319,7 @@ len = queue.length;
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/utils/stack`][@stdlib/utils/stack]</span><span class="delimiter">: </span><span class="description">stack.</span>
+-   <span class="package-name">[`@stdlib/dstructs/stack`][@stdlib/dstructs/stack]</span><span class="delimiter">: </span><span class="description">stack.</span>
 
 </section>
 
@@ -331,7 +331,7 @@ len = queue.length;
 
 <!-- <related-links> -->
 
-[@stdlib/utils/stack]: https://github.com/stdlib-js/utils-stack
+[@stdlib/dstructs/stack]: https://github.com/stdlib-js/dstructs/tree/main/stack
 
 <!-- </related-links> -->
 
