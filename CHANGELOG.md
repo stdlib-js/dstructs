@@ -4,205 +4,26 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-28)
-
-<section class="packages">
-
-### Packages
-
-<section class="package" id="dstructs-unreleased">
-
-#### [@stdlib/dstructs](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/dstructs)
-
-<details>
+## Unreleased (2025-06-17)
 
 <section class="features">
 
-##### Features
+### Features
 
+-   [`13b4d50`](https://github.com/stdlib-js/stdlib/commit/13b4d50284b4f5ba44c714add98ae8d04606cb86) - add initial implementation of `dstructs/struct`
 -   [`9789396`](https://github.com/stdlib-js/stdlib/commit/9789396bd5111e963f4662c57c6b4159d4166946) - update namespace TypeScript declarations [(#5364)](https://github.com/stdlib-js/stdlib/pull/5364)
 -   [`b362b7b`](https://github.com/stdlib-js/stdlib/commit/b362b7b1a0ec5ac2183fc54663e51f38f6db52e5) - add `dstructs` namespace
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="dstructs-circular-buffer-unreleased">
-
-#### [@stdlib/dstructs/circular-buffer](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/dstructs/circular-buffer)
-
-<details>
-
-<section class="features">
-
-##### Features
-
+-   [`b21584c`](https://github.com/stdlib-js/stdlib/commit/b21584cb237c4fda9d617313881ed4fa0e6307e0) - add `dstructs/stack`
+-   [`54f310f`](https://github.com/stdlib-js/stdlib/commit/54f310fb122b05038de174d03acbec6d2f84a5a9) - add `dstructs/named-typed-tuple`
+-   [`9cbb050`](https://github.com/stdlib-js/stdlib/commit/9cbb0501b718418e3722d5d44a7e21a72080edb7) - add `dstructs/linked-list`
+-   [`9f66b7f`](https://github.com/stdlib-js/stdlib/commit/9f66b7f6d12b1897bf9692e780cc4b3e51355810) - add `dstructs/fifo`
+-   [`e208fa6`](https://github.com/stdlib-js/stdlib/commit/e208fa66285056dc232f51c354215d2fe46032e9) - add `dstructs/doubly-linked-list`
+-   [`e9ce766`](https://github.com/stdlib-js/stdlib/commit/e9ce76615e34f13dce149feed5f7ffeda17ca5c2) - add `dstructs/compact-adjacency-matrix`
 -   [`f572c74`](https://github.com/stdlib-js/stdlib/commit/f572c746191a2d8bac1ddf173d9143bdd0e493e6) - add `dstructs/circular-buffer`
 
 </section>
 
 <!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="dstructs-compact-adjacency-matrix-unreleased">
-
-#### [@stdlib/dstructs/compact-adjacency-matrix](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/dstructs/compact-adjacency-matrix)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`e9ce766`](https://github.com/stdlib-js/stdlib/commit/e9ce76615e34f13dce149feed5f7ffeda17ca5c2) - add `dstructs/compact-adjacency-matrix`
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="dstructs-doubly-linked-list-unreleased">
-
-#### [@stdlib/dstructs/doubly-linked-list](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/dstructs/doubly-linked-list)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`e208fa6`](https://github.com/stdlib-js/stdlib/commit/e208fa66285056dc232f51c354215d2fe46032e9) - add `dstructs/doubly-linked-list`
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="dstructs-fifo-unreleased">
-
-#### [@stdlib/dstructs/fifo](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/dstructs/fifo)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`9f66b7f`](https://github.com/stdlib-js/stdlib/commit/9f66b7f6d12b1897bf9692e780cc4b3e51355810) - add `dstructs/fifo`
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="dstructs-linked-list-unreleased">
-
-#### [@stdlib/dstructs/linked-list](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/dstructs/linked-list)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`9cbb050`](https://github.com/stdlib-js/stdlib/commit/9cbb0501b718418e3722d5d44a7e21a72080edb7) - add `dstructs/linked-list`
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="dstructs-named-typed-tuple-unreleased">
-
-#### [@stdlib/dstructs/named-typed-tuple](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/dstructs/named-typed-tuple)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`54f310f`](https://github.com/stdlib-js/stdlib/commit/54f310fb122b05038de174d03acbec6d2f84a5a9) - add `dstructs/named-typed-tuple`
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="dstructs-stack-unreleased">
-
-#### [@stdlib/dstructs/stack](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/dstructs/stack)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`b21584c`](https://github.com/stdlib-js/stdlib/commit/b21584cb237c4fda9d617313881ed4fa0e6307e0) - add `dstructs/stack`
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 2 people contributed to this release. Thank you to the following contributors:
-
--   Athan Reines
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -210,6 +31,8 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`195071c`](https://github.com/stdlib-js/stdlib/commit/195071c47d1088fc1b024023c9b9b693fc6282cb) - **style:** disable lint rule _(by Athan Reines)_
+-   [`13b4d50`](https://github.com/stdlib-js/stdlib/commit/13b4d50284b4f5ba44c714add98ae8d04606cb86) - **feat:** add initial implementation of `dstructs/struct` _(by Athan Reines)_
 -   [`3755dd5`](https://github.com/stdlib-js/stdlib/commit/3755dd57eaedf6fae43a5fabc0be8a887fd30a12) - **docs:** update related packages sections [(#6418)](https://github.com/stdlib-js/stdlib/pull/6418) _(by stdlib-bot)_
 -   [`3ee65c8`](https://github.com/stdlib-js/stdlib/commit/3ee65c87a762ab26fe1b97487f799f5a740afe17) - **docs:** update related packages sections [(#5936)](https://github.com/stdlib-js/stdlib/pull/5936) _(by stdlib-bot)_
 -   [`5ff74c4`](https://github.com/stdlib-js/stdlib/commit/5ff74c49798543b846d66f6b7eb7e64b5b3d7aa6) - **docs:** update related packages sections [(#5529)](https://github.com/stdlib-js/stdlib/pull/5529) _(by stdlib-bot)_
@@ -231,6 +54,19 @@ A total of 2 people contributed to this release. Thank you to the following cont
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
