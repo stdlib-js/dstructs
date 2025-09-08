@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`5d9761c`](https://github.com/stdlib-js/stdlib/commit/5d9761cfdea3389f82ca75aa262a9fc3ddf89439) - implement `toLocaleString` method in `dstructs/named-typed-tuple` [(#8009)](https://github.com/stdlib-js/stdlib/pull/8009)
 -   [`bf26784`](https://github.com/stdlib-js/stdlib/commit/bf26784b458dee86137cc92cb269719cb6e0799e) - add `isStruct` method
 -   [`cd45405`](https://github.com/stdlib-js/stdlib/commit/cd4540545270de354c76083e571c587ac3c59a6e) - add method to resolve a field type
 -   [`4242b0c`](https://github.com/stdlib-js/stdlib/commit/4242b0cfa7df434d6b33ca306acfbb24d573cfa5) - add support for serializing a struct layout
@@ -51,12 +52,25 @@
 
 <!-- /.breaking-changes -->
 
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#6976](https://github.com/stdlib-js/stdlib/issues/6976)
+
+</section>
+
+<!-- /.issues -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`5d9761c`](https://github.com/stdlib-js/stdlib/commit/5d9761cfdea3389f82ca75aa262a9fc3ddf89439) - **feat:** implement `toLocaleString` method in `dstructs/named-typed-tuple` [(#8009)](https://github.com/stdlib-js/stdlib/pull/8009) _(by Gaurav Kaushik, Athan Reines, stdlib-bot)_
 -   [`90b8f5a`](https://github.com/stdlib-js/stdlib/commit/90b8f5a00c6a252d4f66b3d3e22ad8009efa96d6) - **test:** update test messages _(by Athan Reines)_
 -   [`389cecc`](https://github.com/stdlib-js/stdlib/commit/389cecc1b8f977b3923e2f2ed13aa119c25f5bc0) - **test:** fix variable name _(by Athan Reines)_
 -   [`7add020`](https://github.com/stdlib-js/stdlib/commit/7add0201c13e56a0381926ccfd4073c84eaf2ed4) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
@@ -107,9 +121,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Gaurav Kaushik
 -   Philipp Burckhardt
 
 </section>
