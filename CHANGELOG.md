@@ -57,6 +57,7 @@
 
 <details>
 
+-   [`90b8f5a`](https://github.com/stdlib-js/stdlib/commit/90b8f5a00c6a252d4f66b3d3e22ad8009efa96d6) - **test:** update test messages _(by Athan Reines)_
 -   [`389cecc`](https://github.com/stdlib-js/stdlib/commit/389cecc1b8f977b3923e2f2ed13aa119c25f5bc0) - **test:** fix variable name _(by Athan Reines)_
 -   [`7add020`](https://github.com/stdlib-js/stdlib/commit/7add0201c13e56a0381926ccfd4073c84eaf2ed4) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
