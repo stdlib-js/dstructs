@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-24)
+## Unreleased (2025-09-08)
 
 <section class="features">
 
@@ -57,6 +57,10 @@
 
 <details>
 
+-   [`389cecc`](https://github.com/stdlib-js/stdlib/commit/389cecc1b8f977b3923e2f2ed13aa119c25f5bc0) - **test:** fix variable name _(by Athan Reines)_
+-   [`7add020`](https://github.com/stdlib-js/stdlib/commit/7add0201c13e56a0381926ccfd4073c84eaf2ed4) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`f344466`](https://github.com/stdlib-js/stdlib/commit/f344466c6dcfb8f52d7f3148acaadd52772938da) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
 -   [`bf26784`](https://github.com/stdlib-js/stdlib/commit/bf26784b458dee86137cc92cb269719cb6e0799e) - **feat:** add `isStruct` method _(by Athan Reines)_
 -   [`76ebd1b`](https://github.com/stdlib-js/stdlib/commit/76ebd1b06c85827a8166579c0a97c6bb20737e24) - **refactor:** use assert utility _(by Athan Reines)_
 -   [`5aeb4ef`](https://github.com/stdlib-js/stdlib/commit/5aeb4ef105b90890e89ab138a55316c2d6546f71) - **chore:** update package meta data [(#7442)](https://github.com/stdlib-js/stdlib/pull/7442) _(by stdlib-bot)_
