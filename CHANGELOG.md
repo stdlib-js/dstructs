@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`05cf2e6`](https://github.com/stdlib-js/stdlib/commit/05cf2e6e36c42b9db322e14f5bc78adf4d3901f9) - add support for returning empty tuples
 -   [`5d9761c`](https://github.com/stdlib-js/stdlib/commit/5d9761cfdea3389f82ca75aa262a9fc3ddf89439) - implement `toLocaleString` method in `dstructs/named-typed-tuple` [(#8009)](https://github.com/stdlib-js/stdlib/pull/8009)
 -   [`bf26784`](https://github.com/stdlib-js/stdlib/commit/bf26784b458dee86137cc92cb269719cb6e0799e) - add `isStruct` method
 -   [`cd45405`](https://github.com/stdlib-js/stdlib/commit/cd4540545270de354c76083e571c587ac3c59a6e) - add method to resolve a field type
@@ -70,6 +71,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`05cf2e6`](https://github.com/stdlib-js/stdlib/commit/05cf2e6e36c42b9db322e14f5bc78adf4d3901f9) - **feat:** add support for returning empty tuples _(by Athan Reines)_
 -   [`9629e2e`](https://github.com/stdlib-js/stdlib/commit/9629e2ee35e901567a51fcd79e2c13156ed46053) - **test:** add tests for `slice` method in `dstructs/named-typed-tuple` [(#8057)](https://github.com/stdlib-js/stdlib/pull/8057) _(by Gaurav Kaushik, Athan Reines)_
 -   [`d8ad76b`](https://github.com/stdlib-js/stdlib/commit/d8ad76b37fa2b01cd66585f6389f415f61246a63) - **test:** add tests for `toJSON` method in `dstructs/named-typed-tuple` [(#8049)](https://github.com/stdlib-js/stdlib/pull/8049) _(by Gaurav Kaushik, Athan Reines)_
 -   [`a540e07`](https://github.com/stdlib-js/stdlib/commit/a540e076b9bfeacd4c7e85add92d095f1ca042bf) - **test:** add tests for `forEach` method in `dstructs/named-typed-tuple` [(#8042)](https://github.com/stdlib-js/stdlib/pull/8042) _(by Gaurav Kaushik, Athan Reines)_
