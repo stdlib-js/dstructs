@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-17)
+## Unreleased (2025-09-21)
 
 <section class="features">
 
@@ -71,6 +71,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`0aef010`](https://github.com/stdlib-js/stdlib/commit/0aef01041f11f7c706de2e6e2b76c49d80a8ef28) - **refactor:** reorder methods _(by Athan Reines)_
 -   [`05cf2e6`](https://github.com/stdlib-js/stdlib/commit/05cf2e6e36c42b9db322e14f5bc78adf4d3901f9) - **feat:** add support for returning empty tuples _(by Athan Reines)_
 -   [`9629e2e`](https://github.com/stdlib-js/stdlib/commit/9629e2ee35e901567a51fcd79e2c13156ed46053) - **test:** add tests for `slice` method in `dstructs/named-typed-tuple` [(#8057)](https://github.com/stdlib-js/stdlib/pull/8057) _(by Gaurav Kaushik, Athan Reines)_
 -   [`d8ad76b`](https://github.com/stdlib-js/stdlib/commit/d8ad76b37fa2b01cd66585f6389f415f61246a63) - **test:** add tests for `toJSON` method in `dstructs/named-typed-tuple` [(#8049)](https://github.com/stdlib-js/stdlib/pull/8049) _(by Gaurav Kaushik, Athan Reines)_
