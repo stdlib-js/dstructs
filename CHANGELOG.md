@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-17)
+## Unreleased (2026-01-07)
 
 <section class="features">
 
@@ -71,6 +71,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`2b29d0d`](https://github.com/stdlib-js/stdlib/commit/2b29d0d81075f3f545eb8e6bfe5a23c2baa3acca) - **bench:** refactor to use string interpolation in `dstructs/circular-buffer` [(#9591)](https://github.com/stdlib-js/stdlib/pull/9591) _(by Shubham)_
 -   [`0aef010`](https://github.com/stdlib-js/stdlib/commit/0aef01041f11f7c706de2e6e2b76c49d80a8ef28) - **refactor:** reorder methods _(by Athan Reines)_
 -   [`05cf2e6`](https://github.com/stdlib-js/stdlib/commit/05cf2e6e36c42b9db322e14f5bc78adf4d3901f9) - **feat:** add support for returning empty tuples _(by Athan Reines)_
 -   [`9629e2e`](https://github.com/stdlib-js/stdlib/commit/9629e2ee35e901567a51fcd79e2c13156ed46053) - **test:** add tests for `slice` method in `dstructs/named-typed-tuple` [(#8057)](https://github.com/stdlib-js/stdlib/pull/8057) _(by Gaurav Kaushik, Athan Reines)_
@@ -128,11 +129,12 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Gaurav Kaushik
 -   Philipp Burckhardt
+-   Shubham
 
 </section>
 
