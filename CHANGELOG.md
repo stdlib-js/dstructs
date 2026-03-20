@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-17)
+## Unreleased (2026-03-20)
 
 <section class="features">
 
@@ -34,6 +34,7 @@
 
 ### Bug Fixes
 
+-   [`d989a29`](https://github.com/stdlib-js/stdlib/commit/d989a294f926e239674ee4efd0b443422ed01efe) - use correct index
 -   [`d4055ef`](https://github.com/stdlib-js/stdlib/commit/d4055eff4b8a040f25cf2b6508f424fe991f12e0) - ensure field resolution is preserved after sorting
 -   [`4d872c8`](https://github.com/stdlib-js/stdlib/commit/4d872c85075efbb806cae6e16043bd6edc6ab55c) - always limit DataViews to a minimal view of struct memory
 -   [`bab3575`](https://github.com/stdlib-js/stdlib/commit/bab35754c3c4269f78c0968bdd09c4e59d435f0c) - revert offset changes for scalars
@@ -72,6 +73,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`d989a29`](https://github.com/stdlib-js/stdlib/commit/d989a294f926e239674ee4efd0b443422ed01efe) - **fix:** use correct index _(by Athan Reines)_
 -   [`d4055ef`](https://github.com/stdlib-js/stdlib/commit/d4055eff4b8a040f25cf2b6508f424fe991f12e0) - **fix:** ensure field resolution is preserved after sorting _(by Athan Reines)_
 -   [`2b29d0d`](https://github.com/stdlib-js/stdlib/commit/2b29d0d81075f3f545eb8e6bfe5a23c2baa3acca) - **bench:** refactor to use string interpolation in `dstructs/circular-buffer` [(#9591)](https://github.com/stdlib-js/stdlib/pull/9591) _(by Shubham)_
 -   [`0aef010`](https://github.com/stdlib-js/stdlib/commit/0aef01041f11f7c706de2e6e2b76c49d80a8ef28) - **refactor:** reorder methods _(by Athan Reines)_
