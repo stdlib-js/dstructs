@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-05)
+## Unreleased (2026-04-20)
 
 <section class="features">
 
@@ -73,6 +73,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`abd06b9`](https://github.com/stdlib-js/stdlib/commit/abd06b9d24b3efb9a38a35c4fabcb428faaca44b) - **bench:** refactor to use string interpolation in `dstructs` [(#11617)](https://github.com/stdlib-js/stdlib/pull/11617) _(by Karan Anand)_
 -   [`d989a29`](https://github.com/stdlib-js/stdlib/commit/d989a294f926e239674ee4efd0b443422ed01efe) - **fix:** use correct index _(by Athan Reines)_
 -   [`d4055ef`](https://github.com/stdlib-js/stdlib/commit/d4055eff4b8a040f25cf2b6508f424fe991f12e0) - **fix:** ensure field resolution is preserved after sorting _(by Athan Reines)_
 -   [`2b29d0d`](https://github.com/stdlib-js/stdlib/commit/2b29d0d81075f3f545eb8e6bfe5a23c2baa3acca) - **bench:** refactor to use string interpolation in `dstructs/circular-buffer` [(#9591)](https://github.com/stdlib-js/stdlib/pull/9591) _(by Shubham)_
@@ -133,10 +134,11 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Gaurav Kaushik
+-   Karan Anand
 -   Philipp Burckhardt
 -   Shubham
 
