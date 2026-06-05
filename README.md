@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/dstructs@esm/index.mjs';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/dstructs@v0.1.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { CircularBuffer, CompactAdjacencyMatrix, DoublyLinkedList, FIFO, LinkedList, Stack, namedtypedtuple } from 'https://cdn.jsdelivr.net/gh/stdlib-js/dstructs@esm/index.mjs';
+import { CircularBuffer, CompactAdjacencyMatrix, DoublyLinkedList, FIFO, LinkedList, Stack, namedtypedtuple } from 'https://cdn.jsdelivr.net/gh/stdlib-js/dstructs@v0.1.1-esm/index.mjs';
 ```
 
 #### ns
@@ -95,7 +95,7 @@ var o = ns;
 <script type="module">
 
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils/keys@esm/index.mjs';
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/dstructs@esm/index.mjs';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/dstructs@v0.1.1-esm/index.mjs';
 
 console.log( objectKeys( ns ) );
 
