@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/dstructs@deno/mod.js';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/dstructs@v0.1.1-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { CircularBuffer, CompactAdjacencyMatrix, DoublyLinkedList, FIFO, LinkedList, Stack, namedtypedtuple } from 'https://cdn.jsdelivr.net/gh/stdlib-js/dstructs@deno/mod.js';
+import { CircularBuffer, CompactAdjacencyMatrix, DoublyLinkedList, FIFO, LinkedList, Stack, namedtypedtuple } from 'https://cdn.jsdelivr.net/gh/stdlib-js/dstructs@v0.1.1-deno/mod.js';
 ```
 
 #### ns
@@ -90,7 +90,7 @@ var o = ns;
 
 ```javascript
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils/keys@deno/mod.js';
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/dstructs@deno/mod.js';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/dstructs@v0.1.1-deno/mod.js';
 
 console.log( objectKeys( ns ) );
 ```
