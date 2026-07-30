@@ -2,6 +2,41 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-07-30)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`f9691b2`](https://github.com/stdlib-js/stdlib/commit/f9691b2086e0407d16a92e14fe72f92f87863fa6) - **test:** ensure backward compatibility in test assertion [(#13783)](https://github.com/stdlib-js/stdlib/pull/13783) _(by Philipp Burckhardt, Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-06-05)
